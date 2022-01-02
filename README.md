@@ -1,4 +1,4 @@
-### Growth oriented Engineer 👋
+### Growth oriented Engineer 🔥
 https://blog.naver.com/leeqwe89
 <!--
 **ChangSeonKim/ChangSeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
