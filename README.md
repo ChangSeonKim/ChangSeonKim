@@ -1,5 +1,5 @@
 ### Growth oriented Engineer 🔥
-https://blog.naver.com/leeqwe89
+https://blog.naver.com/leeqwe89 /
 ###computervision_project 
 https://github.com/ChangSeonKim/computervision_project
 <!--
