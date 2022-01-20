@@ -1,5 +1,4 @@
 ### Growth oriented Engineer 🔥
-https://blog.naver.com/leeqwe89 
 --
 computervision_project 
 --
