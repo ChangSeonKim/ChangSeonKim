@@ -11,7 +11,7 @@ MLops project
 --
 https://github.com/ChangSeonKim/-MLops_project
 --
-ROS project
+Robbot project
 --
 https://github.com/ChangSeonKim/5G_ROS_project
 
