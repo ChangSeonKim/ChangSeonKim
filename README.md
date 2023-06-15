@@ -1,4 +1,9 @@
 ### Growth oriented Engineer 🔥
+Java project
+--
+https://github.com/ChangSeonKim/Study_Java
+--
+
 BlockChain_P2E
 --
 https://github.com/ChangSeonKim/BlockChain_P2E
